@@ -6,26 +6,24 @@ This repository provides comprehensive, interview-focused notes and code example
 
 ## 📚 Contents
 
-1. **Introduction to OOP in Java**
-2. **Classes & Objects**
-3. **Constructors**
-4. **Access Modifiers & Encapsulation**
-5. **Inheritance & Method Overriding**
-6. **Polymorphism (Compile-Time & Run-Time)**
-7. **Abstraction (Abstract Classes & Interfaces)**
-8. **Exception Handling**
-9. **Java Collections Framework**
-10. **Inner Classes, Anonymous Classes & Lambda Expressions**
-11. **File I/O & Serialization**
-12. **Multithreading & Synchronization**
-13. **Memory Management & Garbage Collection**
-14. **Java 8+ Features (Streams, Optional, etc.)**
+Each topic includes a direct [video] link to help you quickly access high-quality YouTube tutorials and explanations. Section names and file names are exactly as in your repo.
 
-Each topic includes:
-- **Concise theory** with clear definitions and key points
-- **Sample code snippets**
-- **Interview tips and common questions**
-- **Real-world analogies** where appropriate
+| #  | Topic                                                   | File Name                                         |   | Video Link |
+|----|---------------------------------------------------------|---------------------------------------------------|---|------------|
+| 1  | Introduction to OOP in Java                             | [01_OOPJ_Introduction.md](01_OOPJ_Introduction.md)       |   | [video](https://www.youtube.com/results?search_query=OOP+Java+Introduction) |
+| 2  | Core OOP Concepts                                       | [02_OOPJ_Core_OOP_Concepts.md](02_OOPJ_Core_OOP_Concepts.md) |   | [video](https://www.youtube.com/results?search_query=OOP+Concepts+Java) |
+| 3  | Classes, Objects & Constructors                         | [03_OOPJ_Classes_Objects_Constructors.md](03_OOPJ_Classes_Objects_Constructors.md) |   | [video](https://www.youtube.com/results?search_query=Java+Classes+Objects+Constructors) |
+| 4  | Access Modifiers, Static & Final                        | [04_OOPJ_Access_Modifiers_Static_Final.md](04_OOPJ_Access_Modifiers_Static_Final.md) |   | [video](https://www.youtube.com/results?search_query=Java+Access+Modifiers+Static+Final) |
+| 5  | Inheritance & Method Overriding                         | [05_OOPJ_Inheritance_Method_Overriding.md](05_OOPJ_Inheritance_Method_Overriding.md) |   | [video](https://www.youtube.com/results?search_query=Java+Inheritance+Method+Overriding) |
+| 6  | Polymorphism (Compile-Time & Run-Time)                  | [06_OOPJ_Polymorphism.md](06_OOPJ_Polymorphism.md)         |   | [video](https://www.youtube.com/results?search_query=Java+Polymorphism+Compile+Time+Run+Time) |
+| 7  | Abstraction (Abstract Classes & Interfaces)             | [07_OOPJ_Abstraction_Abstract_Interface.md](07_OOPJ_Abstraction_Abstract_Interface.md) |   | [video](https://www.youtube.com/results?search_query=Java+Abstraction+Abstract+Class+Interface) |
+| 8  | Exception Handling                                      | [08_OOPJ_Exception_Handling.md](08_OOPJ_Exception_Handling.md) |   | [video](https://www.youtube.com/results?search_query=Java+Exception+Handling) |
+| 9  | Java Collections Framework                              | [09_OOPJ_Collections_Framework.md](09_OOPJ_Collections_Framework.md) |   | [video](https://www.youtube.com/results?search_query=Java+Collections+Framework) |
+| 10 | Inner Classes, Anonymous Classes & Lambda Expressions   | [10_OOPJ_Inner_Anonymous_Lambda.md](10_OOPJ_Inner_Anonymous_Lambda.md) |   | [video](https://www.youtube.com/results?search_query=Java+Inner+Classes+Anonymous+Lambda) |
+| 11 | File I/O & Serialization                                | [11_OOPJ_FileIO_Serialization.md](11_OOPJ_FileIO_Serialization.md) |   | [video](https://www.youtube.com/results?search_query=Java+File+IO+Serialization) |
+| 12 | Multithreading & Synchronization                        | [12_OOPJ_Multithreading_Synchronization.md](12_OOPJ_Multithreading_Synchronization.md) |   | [video](https://www.youtube.com/results?search_query=Java+Multithreading+Synchronization) |
+| 13 | Memory Management & Garbage Collection                  | [13_OOPJ_Memory_Management_GC.md](13_OOPJ_Memory_Management_GC.md) |   | [video](https://www.youtube.com/results?search_query=Java+Memory+Management+Garbage+Collection) |
+| 14 | Java 8+ Features (Streams, Optional, etc.)              | [14_OOPJ_Java8_Features.md](14_OOPJ_Java8_Features.md)   |   | [video](https://www.youtube.com/results?search_query=Java+8+Features+Streams+Optional) |
 
 ---
 
@@ -33,29 +31,8 @@ Each topic includes:
 
 - **Browse by topic:** Each section is provided as a standalone Markdown file for easy reading and revision.
 - **Practice coding:** Try out the code snippets in your Java IDE.
+- **Visual learning:** Click the [video] links to find top YouTube tutorials for each section.
 - **Prepare for interviews:** Review the interview tips and typical follow-up questions at the end of each section.
-
----
-
-## 📂 File Structure
-
-```
-/01_oopj_intro.md
-/02_oopj_classes_objects.md
-/03_oopj_constructors.md
-/04_oopj_access_encapsulation.md
-/05_oopj_inheritance_method_overriding.md
-/06_oopj_polymorphism.md
-/07_oopj_abstraction_abstract_interface.md
-/08_oopj_exception_handling.md
-/09_oopj_collections_framework.md
-/10_oopj_inner_anonymous_lambda.md
-/11_oopj_fileio_serialization.md
-/12_oopj_multithreading_synchronization.md
-/13_oopj_memory_management_gc.md
-/14_oopj_java8_features.md
-/README.md
-```
 
 ---
 
